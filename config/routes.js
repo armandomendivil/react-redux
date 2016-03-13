@@ -1,5 +1,5 @@
 import React from 'react'
-import Main from '../components/Main'
+import Main from '../containers/App'
 import Home from '../components/Home'
 import About from '../components/About'
 import { Route, IndexRoute } from 'react-router'
