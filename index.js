@@ -1,14 +1,9 @@
 import React, { Component } from 'react'
 import { render } from 'react-dom'
-
-class App extends Component {
-
-	render() {
-		return <h3>Hello, World</h3>
-	}
-}
+import { Router } from 'react-router'
+import routes from './config/routes'
 
 render(
-	<App/>,
+	<Router>{routes}</Router>,
 	document.getElementById('root')
 )
