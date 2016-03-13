@@ -1,0 +1,25 @@
+{
+  "name": "react-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandomendivil/react-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "webpack",
+    "express"
+  ],
+  "author": "Armando Mendivil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armandomendivil/react-redux/issues"
+  },
+  "homepage": "https://github.com/armandomendivil/react-redux#readme"
+}
